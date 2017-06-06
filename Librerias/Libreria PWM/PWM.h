@@ -1,5 +1,5 @@
-#ifndef Funciones_H
-#define Funciones_H
+#ifndef PWM_H
+#define PWM_H
 
 void initPWM();
 void initDutyCycle(char Buf, int util, int per);
